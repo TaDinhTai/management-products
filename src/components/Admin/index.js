@@ -8,7 +8,7 @@ import { NavLink, Outlet } from "react-router-dom";
 const Admin = () => {
   return (
     <>
-      <div className="all container">
+      <div className="all">
         <div className="row">
           <div className="col-md-2">
             <Menu />
